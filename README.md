@@ -1,2 +1,8 @@
 # app-dev
 My first repository
+
+** FAVORITE SERIES **
+1. CAN'T BUY ME LOVE
+2. UNCANNY COUNTER
+3. HUNTERXHUNTER
+4. 3 PERSENT

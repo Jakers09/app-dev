@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-##**FAVORITE**
+**FAVORITE**
 
 1. CAN'T BUY ME LOVE
 2. UNCANNY COUNTER
